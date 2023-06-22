@@ -3,7 +3,7 @@ Heya! :wave:
 
 I'm Brahm. I'm a software engineer, but also more broadly I am a curious mind. I get paid to design systems and write code, but my fundamental skill is learning quickly and proactivaly growing my expertise however it's needed.
 
-I also have a [blog](https://brahmlower.io), [Twitter](https://twitter.com/brahmlower), and [LinkedIn](https://www.linkedin.com/in/brahm-lower).
+I also have a [blog](https://blog.brahmlower.io), [Twitter](https://twitter.com/brahmlower), and [LinkedIn](https://www.linkedin.com/in/brahm-lower).
 
 <br>
 
