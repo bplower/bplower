@@ -1,7 +1,7 @@
 
 ## Heya, I'm Brahm! 👋
 
-I'm a senior software engineer with a focus on backend services and systems design. I prefer brevity, explicitness and self discovery in my tools, and have consequently grown to love Rust, Go, and Tailwind, among a myriad of other daily utilities.
+I'm a senior software engineer with a focus on backend services and systems design. I prefer brevity, explicitness and self discovery in my tools, and have consequently grown to love Rust, Go, HTMX, and Tailwind, among a myriad of other daily utilities.
 
 My other outposts online are 🏕
 - 🏡 &nbsp; [blog](https://blog.brahmlower.io)
@@ -18,7 +18,7 @@ My repos are typically experiments or incomplete side-projects, but sometimes in
 2. assist in learning something new
 3. explore a creative idea/scenario
 
-There are a few projects that I really enjoy though and would like to highlight:
+A few projects that I really enjoy and want to highlight are:
 
 - ![project](https://img.shields.io/badge/-project_✨-green) [Today I Learned](https://til.brahmlower.io/) (serverless- give it a sec to cold-start)
 - ![project](https://img.shields.io/badge/-project_✨-green) [Airbrake Rust](https://github.com/kyrylo/airbrake-rust) (inactive)
@@ -42,6 +42,7 @@ My professional work is typically closed source but a few projects I can proudly
 
 ### Brief Philosophies 🤔
 
+- I am [Grug](https://grugbrain.dev/)
 - [Psychological safety](https://friday.app/p/what-is-psychological-safety) & [managing up](https://www.cultureamp.com/blog/managing-up-importance) are keystones to an effective organization
 - Suburbs aren't a culture. We need walkable cities & good public transit
 - We're actively killing our planet (fuck greenwashing)
