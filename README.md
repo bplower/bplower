@@ -4,6 +4,7 @@
 I'm a senior software engineer with a focus on backend services and systems design. I prefer brevity, explicitness and self discovery in my tools, and have consequently grown to love Rust, Go, HTMX, and Tailwind, among a myriad of other daily utilities.
 
 My other outposts online are 🏕
+
 - 🏡 &nbsp; [blog](https://blog.brahmlower.io)
 - 🐓 &nbsp; [twitter](https://twitter.com/brahmlower)
 - 💼 &nbsp; [linkedin](https://www.linkedin.com/in/brahm-lower)
@@ -28,6 +29,11 @@ A few projects that I really enjoy and want to highlight are:
 - ![experiment](https://img.shields.io/badge/-experiment_🧪-purple) [Test Galaxy Map](https://github.com/bplower/test-galaxy-map)
 - ![meme](https://img.shields.io/badge/-meme_🤪-blue) [pgzan](https://github.com/bplower/pgzan) (zanzibar pg extension for row level security)
 
+I've also published a couple rust packages! 🦀
+
+- 📦 [default_aware](https://crates.io/crates/default_aware) a crate for better handling default values created through deserialization
+- 📦 [prefixed-api-key](https://crates.io/crates/prefixed-api-key) a crate for generating [seam style](https://github.com/seamapi/prefixed-api-key) api tokens
+ 
 <br>
 
 ### Work Portfolio 🏆
