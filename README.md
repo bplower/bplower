@@ -23,11 +23,11 @@ A few projects that I really enjoy and want to highlight are:
 
 - ![project](https://img.shields.io/badge/-project_✨-green) [Today I Learned](https://til.brahmlower.io/) (serverless- give it a sec to cold-start)
 - ![project](https://img.shields.io/badge/-project_✨-green) [Airbrake Rust](https://github.com/kyrylo/airbrake-rust) (inactive)
-- ![project](https://img.shields.io/badge/-project_✨-green) [Status-Page Monitor](https://github.com/bplower/statuspage-monitor) (inactive)
-- ![experiment](https://img.shields.io/badge/-experiment_🧪-purple) [Postgres Virtual Tables](https://github.com/bplower/postgres-virtual-tables)
-- ![experiment](https://img.shields.io/badge/-experiment_🧪-purple) [Loot Generator](https://github.com/bplower/loot-generator)
-- ![experiment](https://img.shields.io/badge/-experiment_🧪-purple) [Test Galaxy Map](https://github.com/bplower/test-galaxy-map)
-- ![meme](https://img.shields.io/badge/-meme_🤪-blue) [pgzan](https://github.com/bplower/pgzan) (zanzibar pg extension for row level security)
+- ![project](https://img.shields.io/badge/-project_✨-green) [Status-Page Monitor](https://github.com/brahmlower/statuspage-monitor) (inactive)
+- ![experiment](https://img.shields.io/badge/-experiment_🧪-purple) [Postgres Virtual Tables](https://github.com/brahmlower/postgres-virtual-tables)
+- ![experiment](https://img.shields.io/badge/-experiment_🧪-purple) [Loot Generator](https://github.com/brahmlower/loot-generator)
+- ![experiment](https://img.shields.io/badge/-experiment_🧪-purple) [Test Galaxy Map](https://github.com/brahmlower/test-galaxy-map)
+- ![meme](https://img.shields.io/badge/-meme_🤪-blue) [pgzan](https://github.com/brahmlower/pgzan) (zanzibar pg extension for row level security)
 
 I've also published a couple rust packages! 🦀
 
