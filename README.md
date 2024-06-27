@@ -1,7 +1,7 @@
 
 ## Heya, I'm Brahm! 👋
 
-I'm a senior software engineer with a focus on backend services and systems design. I prefer brevity, explicitness and self discovery in my tools, and have consequently grown to love Rust, Go, HTMX, and Tailwind, among a myriad of other daily utilities.
+I'm a software engineer with a focus on backend services and systems design. I prefer brevity, explicitness and self discovery in my tools, and have consequently grown to love Rust, Go, HTMX, and Tailwind, among a myriad of other daily utilities.
 
 My other outposts online are 🏕
 
@@ -51,7 +51,6 @@ My professional work is typically closed source but a few projects I can proudly
 - I am [Grug](https://grugbrain.dev/)
 - [Psychological safety](https://friday.app/p/what-is-psychological-safety) & [managing up](https://www.cultureamp.com/blog/managing-up-importance) are keystones to an effective organization
 - Suburbs aren't a culture. We need walkable cities & good public transit
-- We're actively killing our planet (fuck greenwashing)
 - Our constant-growth for-profit economic systems are unsustainable
 - Crypto & web3 are a scams. Don't talk to me about it
 - Touch grass 🌱
